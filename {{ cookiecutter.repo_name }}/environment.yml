@@ -16,3 +16,4 @@ dependencies:
   - altair
   - pip
   - xlrd
+  - openpyxl
